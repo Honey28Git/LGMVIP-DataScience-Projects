@@ -1,11 +1,9 @@
-## LetsGrowMore
+## LetsGrowMore Data Science Internship Projects
+### Project Portfolio Overview
 
-## Data Science Internship Projects
-### Project Portfolio
-### Overview
 This repository showcases 10 diverse data science and machine learning projects, ranging from classification tasks, time series prediction, and recommendation systems, to neural networks for handwritten recognition and mood detection. These projects highlight my proficiency with machine learning, deep learning, computer vision, and data analysis.
 
-Projects Summary
+### Projects Summary
 1. Iris Classification
 Overview: Applied machine learning models to classify the Iris species using the Iris dataset. Approach: Used decision trees and other classification techniques. Conclusion: Achieved high classification accuracy by training a decision tree classifier on the well-known Iris dataset.
 
