@@ -7,15 +7,18 @@ The challenge focused on predicting song repetition based on various features wi
 ## Approach
 Data Exploration: Conducted exploratory data analysis (EDA) to understand the dataset's structure and the relationships between features. This included visualizing data distributions and identifying patterns.
 
-## Model Development: I implemented a Random Forest model due to its effectiveness in handling complex datasets and its ability to provide feature importance scores. 
+## Model Development: 
+I implemented a Random Forest model due to its effectiveness in handling complex datasets and its ability to provide feature importance scores. 
 I also performed parameter tuning to optimize model performance.
 
-## Feature Selection: Identified and selected key features that significantly impacted song repetition. The top three features influencing repetition were:
+## Feature Selection: 
+Identified and selected key features that significantly impacted song repetition. The top three features influencing repetition were:
 1. source_system_tab
 2. source_screen_name
 3. source_type
 
-Model Evaluation: Evaluated the model's performance using accuracy metrics, achieving a successful prediction rate of 65%. 
+## Model Evaluation: 
+Evaluated the model's performance using accuracy metrics, achieving a successful prediction rate of 65%. 
 This indicated that the model could accurately predict which songs were likely to be played repeatedly.
 
 ## Findings
