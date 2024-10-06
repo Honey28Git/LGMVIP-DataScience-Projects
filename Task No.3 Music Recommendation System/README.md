@@ -22,8 +22,8 @@ Evaluated the model's performance using accuracy metrics, achieving a successful
 This indicated that the model could accurately predict which songs were likely to be played repeatedly.
 
 ## Findings
-The Random Forest model accurately predicted that 891,143 songs were played on repeat while identifying 1,665,647 songs that were not played repeatedly.
-The analysis revealed that specific features, such as the source of the play, had a significant influence on the likelihood of song repetition.
+The Random Forest model accurately predicted that only 34% of the total songs were being played on repeat. 
+The analysis revealed that specific features, such as the source_system_tab, source_screen_name, source_type, had a significant influence on the likelihood of song repetition.
 
 ## Conclusion
 The Music Recommendation Model challenge provided valuable insights into the factors driving song repetition.
