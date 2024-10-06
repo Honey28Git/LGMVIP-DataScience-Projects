@@ -1,5 +1,5 @@
 ## Overview
-In the Music Recommendation Model challenge on Kaggle, I utilized the KKBox Music Dataset to develop a predictive model aimed at determining the likelihood of song repetition. The objective was to identify the main features responsible for whether a song had been played more than once, ultimately enhancing the music recommendation system.
+In the Music Recommendation Model challenge on Kaggle, I utilized the KKBox Music Dataset to develop a predictive model aimed at determining the likelihood of song repetition. The objective was to predict the chances of a user listening to music on repeat on the app. Also, identified the main features responsible for whether a song had been played more than once, ultimately enhancing the music recommendation system.
 
 ## Problem
 The challenge focused on predicting song repetition based on various features within the dataset. Understanding the factors that influence song plays is crucial for improving user engagement and satisfaction in music streaming services. The key problem was to classify whether each song was played repeatedly or not.
